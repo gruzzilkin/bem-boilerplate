@@ -5,4 +5,5 @@ node_modules
 .svn
 .bem/tmp
 pages-*/*/*.*
+product
 !pages-*/*/*.bemjson.js

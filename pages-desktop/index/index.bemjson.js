@@ -3,8 +3,8 @@
     title: 'Title of the page',
     favicon: '/favicon.ico',
     head: [
-        { elem: 'css', url: '_index.css', ie: false },
-        { elem: 'js', url: '_index.js' },
+        { elem: 'css', url: '../common/_common.css', ie: false },
+        { elem: 'js', url: '../common/_common.js' },
         { elem: 'meta', attrs: { name: 'description', content: '' }},
         { elem: 'meta', attrs: { name: 'keywords', content: '' }}
     ],
