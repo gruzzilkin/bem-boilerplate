@@ -1,7 +1,7 @@
 {
   "author": "Aleksandr Boichenko <banzalik@gmail.com>",
   "name": "bem-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/banzalik/bem-boilerplate.git"
